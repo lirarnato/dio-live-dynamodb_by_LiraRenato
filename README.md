@@ -5,7 +5,4 @@ Repositório sobre o Amazon DynamoDB
   - Amazon DynamoDB
  
 
-### tabela criada utilizando os comados de serviços da Amazon DynamoDB, feita a exportação dos dados em 
-
-
-
+### tabela criada utilizando os comados de serviços da Amazon DynamoDB, feita a exportação dos dados em CSV.
