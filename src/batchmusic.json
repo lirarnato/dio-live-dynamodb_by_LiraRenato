@@ -1,0 +1,29 @@
+{
+    "MaterialInstalar": [
+        {
+            "PutRequest": {
+                "Item": {
+               	"codigoSap": {"S": "401292"},
+  			"material": {"S": "POSTE DE MADEIRA DE 11M"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+			"codigoSap": {"S": "400992"},
+  			"material": {"S": "POSTE DE CONCRETO CIRCULAR 9/200"}
+                 
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                 "codigoSap": {"S": "400990"},
+  			"material": {"S": "POSTE DE MADEIRA DE 9M"}
+                }
+            }
+        }
+      ]
+}
